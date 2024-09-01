@@ -91,6 +91,3 @@ You can also explore the GUI components provided in `timer.py` and `tools.py` fo
 
 This project is open-source and free to use under the MIT License.
 
----
-
-This README file gives an overview of your project, explaining the purpose of each script and how to use them. Let me know if there's anything else you'd like to add or modify!
