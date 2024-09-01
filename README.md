@@ -34,13 +34,12 @@ To run this project, you need the following Python packages:
 - `pandas`
 - `tkinter`
 - `customtkinter`
-- `qrcode`
 - `secrets`
 
 You can install the required packages using pip:
 
 ```bash
-pip install scipy librosa pydub pyaudio xgboost scikit-learn pandas customtkinter qrcode secrets
+pip install scipy librosa pydub pyaudio xgboost scikit-learn pandas customtkinter secrets
 ```
 
 ## How to Use
