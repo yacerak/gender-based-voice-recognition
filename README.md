@@ -106,8 +106,4 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For any inquiries, feel free to contact [your-email@example.com].
-
----
-
-This README provides a structured guide to understanding, installing, and using your gender prediction project. Let me know if there are any other changes you'd like to make!
+For any inquiries, feel free to contact [yacermeftah@gmail.com].
