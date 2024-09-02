@@ -106,4 +106,4 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For any inquiries, feel free to contact [yacermeftah@gmail.com].
+For any inquiries, feel free to contact yacermeftah@gmail.com.
